@@ -31,4 +31,25 @@ hub.speaker.play_notes(Tetris, 120)
 
 
 wait(1000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print('valami')
